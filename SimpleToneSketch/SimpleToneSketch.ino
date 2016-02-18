@@ -1,4 +1,5 @@
 //This will create a simple chirper that plays tones when told to by the iOS app.
+//Successfully works with the app build on Feb 18 2016
 
 //Includes
 #include <SoftwareSerial.h>
