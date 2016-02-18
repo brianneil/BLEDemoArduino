@@ -5,7 +5,7 @@
 #include <SoftwareSerial.h>
 
 //Globals
-int Buzzer = 6;
+int Buzzer = 10;
 int LED = 13;
 unsigned int buzzTimer = 0;
 SoftwareSerial BLE_Shield(4,5);
